@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" page-range-format="expanded" initialize-with-hyphen="false" demote-non-dropping-particle="never">
   <info>
-    <title>CIRP Custom - Numeric Comma Format v2</title>
+    <title>CIRP Custom - Numeric Comma Format v3</title>
     <id>https://raw.githubusercontent.com/anniedeliu/CIRP/main/CIRP_Custom_Comma_Format.csl</id>
     <link href="https://raw.githubusercontent.com/anniedeliu/CIRP/main/CIRP_Custom_Comma_Format.csl" rel="self"/>
     <author><name>Custom style prepared for Wenyi Liu</name></author>
@@ -12,7 +12,7 @@
     <rights license="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</rights>
   </info>
   <locale xml:lang="en">
-    <terms><term name="page-range-delimiter">–</term><term name="citation-range-delimiter">–</term></terms>
+    <terms><term name="page-range-delimiter">–</term></terms>
   </locale>
   <macro name="author">
     <names variable="author">
