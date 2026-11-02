@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" page-range-format="expanded" initialize-with-hyphen="false" demote-non-dropping-particle="never">
   <info>
-    <title>CIRP Custom - Numeric Comma Format</title>
-    <id>http://www.zotero.org/styles/cirp-annals-custom-author-year-numeric</id>
-    <link href="http://www.zotero.org/styles/cirp-annals-custom-author-year-numeric" rel="self"/>
+    <title>CIRP Custom - Numeric Comma Format v2</title>
+    <id>https://raw.githubusercontent.com/anniedeliu/CIRP/main/CIRP_Custom_Comma_Format.csl</id>
+    <link href="https://raw.githubusercontent.com/anniedeliu/CIRP/main/CIRP_Custom_Comma_Format.csl" rel="self"/>
     <author><name>Custom style prepared for Wenyi Liu</name></author>
     <category citation-format="numeric"/>
     <category field="engineering"/>
